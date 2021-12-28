@@ -9,3 +9,7 @@
 > 2:30 pm web design :HTML
 
 > 3:30 pm web design : Javascript
+
+> 5:00 pm PHP Framework : oops
+
+> 6:00 pm Web Design : Jquery 
