@@ -1,8 +1,6 @@
 <img src="https://www.ducatindia.com/images/logo.png">
 
-#   Ducat India Batch Info
-
-## Punit Katiyar | Full Stack Developer
+#   Ducat India Batch Info | Full Stack Developer
 
 ## Week Day
 
