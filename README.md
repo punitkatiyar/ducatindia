@@ -1,3 +1,5 @@
+<img src="https://www.ducatindia.com/images/logo.png">
+
 #   Ducat India Batch Info
 
 ## Punit Katiyar | Full Stack Developer
