@@ -4,7 +4,7 @@
 
 ## Week Day
 
-> 10am New Batch : Web Development
+> 10:00 am New Batch : Web Development
 
 > 11:30 am Web Design : Bootstrap
 
