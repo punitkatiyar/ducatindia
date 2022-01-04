@@ -6,15 +6,15 @@
 
 > 10:00 am New Batch : Web Development
 
-> 11:30 am Web Design : Bootstrap
+> 11:30 am Web Design : Bootstrap [complete]
 
-> 2:30 pm web design :HTML
+> 2:30 pm web design :HTML / css
 
-> 3:30 pm web design : Javascript
+> 3:30 pm web design : Javascript /jquery
 
-> 5:00 pm PHP Framework : oops
+> 5:00 pm PHP Framework : oops / start ci
 
-> 6:00 pm Web Design : Jquery 
+> 6:00 pm Web Design : Jquery / html5
 
 ## Week End
 
