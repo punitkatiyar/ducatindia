@@ -4,15 +4,15 @@
 
 ## Week Day
 
-> 10:00 am New Batch : Web Development
+> 10:00 am Web Design : Jquery
 
-> 11:30 am Web Design : Bootstrap [complete]
+> 11:30 am PHP : Array
 
-> 2:30 pm web design :HTML / css
+> 2:30 pm web design : css
 
-> 3:30 pm web design : Javascript /jquery
+> 3:30 pm web design : New HTML
 
-> 5:00 pm PHP Framework : oops / start ci
+> 5:00 pm PHP Framework : CI DataBase
 
 > 6:00 pm Web Design : Jquery / html5
 
