@@ -1,20 +1,18 @@
-<img src="https://www.ducatindia.com/images/logo.png">
-
 #   Ducat India Batch Info | Full Stack Developer
 
 ## Week Day
 
-> 10:00 am Web Design : Jquery
+> 11:00 am PHP  : Laravel 
 
-> 11:30 am PHP : Array
+> 12:00 am Full Stack : React [week 2]
 
-> 2:30 pm web design : css
+> 1:00 pm FullStack : css
 
-> 3:30 pm web design : New HTML
+> 3:00 pm Free Time : New 
 
-> 5:00 pm PHP Framework : CI DataBase
+> 5:00 pm Full Stack : CSS
 
-> 6:00 pm Web Design : Jquery / html5
+> 7:00 pm Full Stack : HTML
 
 ## Week End
 
